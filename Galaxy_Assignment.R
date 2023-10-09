@@ -1,4 +1,4 @@
-# Problem 3 - Galaxy Assignment
+# Problem 2 - Galaxy Assignment
 
 library(tidyverse)
 
